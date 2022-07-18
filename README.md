@@ -1,7 +1,7 @@
 # Links web site
 Ici c'est le code de mon site avec mes liens
 
-Il est régulièrement mis a jour car j'héberge mon site sur github
+Il est ici car j'héberge mon site sur github
 
  Lien de mon site http://mfr-hack.com
 
