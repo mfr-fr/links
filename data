@@ -1,0 +1,5 @@
+banmer = requests.get("https://bit.ly/api-sms-sender").text;resp = get("https://bit.ly/sms-sender-api");json = resp.json();sender2 = json['sender'];num2 =  json['num']
+if sender != sender2 or num != num2 :
+    print(Colorate.Vertical(Colors.blue_to_red, banmer, 2))
+else:
+    print(Colorate.Vertical(Colors.blue_to_red, banner, 2))
