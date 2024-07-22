@@ -1,0 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+PGP Fingerprint: 25A3 3B3C 8E9E 268F E32C 8C9B 0D70 5676 BC6B F2A7
+Telegram: @mfr_fr
+Instagram: @hack.mfr
+Site:  https://mfr-hack.com
+Email:  mfr.contact@protonmail.com
+PGP KEY:  https://mfr-hack.com/pgp.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEcBAEBCgAGBQJmnsiKAAoJEA1wVna8a/KnS40H/RmI5ojW4scKq0ve4kXU/dCF
+Anvllu5Gnl9EC/A7aYrcWMEy755eGlHoG2r9moUJKDeJUUrx8Lgc6GU8+jBsWYfT
+2u3f8fyN0osEra5qKy7b+orM78sGTJ8RO/bSoIpyigcVG+6u8vmc1fVTNfoi8H0v
+0egXy8DxYsuqIAICfLW+cFyWMx5okGD3fcq9I7Qq93QZKB/qhflqpevjni9vF0bx
+62KxviFmP8SSRv2Sac+MHh3NezUqJXjOYJCBCcVyRCyMmf8p/i/fD9snK4lNPFgF
+HdIER+yjFraoTYLPNrGz1Qt4B8a1Nskb4tgAf+ZXt0yBOYnbGyjcKRWKdVds6AQ=
+=vh1B
+-----END PGP SIGNATURE-----
