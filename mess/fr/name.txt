@@ -1,0 +1,14 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Le nom MFR n'est pas pour représenter quelconque organisation ou autre, c'est juste un acronyme de Mister FRance.
+
+-----BEGIN PGP SIGNATURE-----
+iQEcBAEBCgAGBQJnhqHbAAoJEA1wVna8a/KnTZkH/R7JHh0feSfsovI8PiSoGbb0
+kMAPt4WNq1dDbq7Y42Pllj12CHEoVOMlufx84KYo3V6sHz8EBAcZT/cVOXEsZ8f/
+bwWyrD/KgZHiSF6QXxOdKHf1uUnRxFsDOLC7FJF2K52eV32oVoEnYxAMxzHxSb+Z
+QKRKPNQJfqA1xi9x78RFLN7HGcCjw/K9Yiysdc12pDf1ByGK1W+Z3nP1L8zksSE0
+YKGFoTUfcIY7S3rzKO7NJ9Ly0/ntYYTS7HHSZDlxi7Ndtb6aekfnnP8S2G7IWyG1
+MOHp+UnXgFhEtyuM1SBF/wbH98GWZnrRWZevs6xlbPfJ7nf6f8+DmC4tujzm2xM=
+=Judb
+-----END PGP SIGNATURE-----
